@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bitaudit-client.iml" filepath="$PROJECT_DIR$/bitaudit-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bitaudit-client_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bitaudit-client_main.iml" group="bitaudit-client" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bitaudit-client_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bitaudit-client_test.iml" group="bitaudit-client" />
     </modules>
   </component>
 </project>
